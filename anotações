@@ -1,0 +1,35 @@
+# pessoas = {
+#     'Nome' :'Alice' ,
+#     'idade': 17 , 
+#     'sexo' : "feminino"}
+# print(f'{pessoas["Nome"]} tem {pessoas["idade"]} anos de idade')
+
+
+# pessoas['Nome'] = 'luan'
+# del pessoas['sexo']
+#del pessoas ['sexo] -> deletar
+
+# pessoas['Name'] = 'Davi' -> para substituir
+
+# pessoas ['Endereço'] = 'Estrada de Ponta Negra' -> add
+
+#print (pessoas.keys())
+#print (pessoas.values())
+#print (pessoas.items())
+
+#for k, v in pessoas.items():
+    #print (f'A Chave: {k} tem o Valor: {v}')
+
+
+# brasil = []
+# estado1 = {
+#     'UF': 'Rio de janeiro' , 
+#     'sigla' : 'RJ'    
+# }
+# estado2 = {
+#     'UF':'São paulo' , 
+#     'sigla' : ' SP'
+# }
+# brasil.append(estado1)
+# brasil.append(estado2)
+# print(brasil[0]['UF'])
